@@ -5,7 +5,8 @@ import pandas as pd
 import plotly.express as px
 
 # Load the trained model
-loaded_model = pickle.load(open('C:/Users/leb/OneDrive/Desktop/deploying a machine leaning model/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('trained_model.sav', 'rb'))
+
 
 # Function for prediction
 def diabetes_predictions(input_data):
