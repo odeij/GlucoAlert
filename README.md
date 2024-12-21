@@ -1,5 +1,6 @@
 # GlucoAlert
 A diabetes prediction system using machine learning
+# Developed by odei jamaleddine and Hamza hamden
 # Diabetes Prediction App
 
 This repository contains a Streamlit app that predicts diabetes based on user inputs.
