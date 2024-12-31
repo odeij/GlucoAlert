@@ -61,11 +61,7 @@ def main():
         diagnosis = diabetes_predictions([Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age])
         
     st.success(diagnosis)
-    st.info("Always Remember to consult your doctor. ")
-    
-    
-
-    
+    st.info("Always Remember to consult your doctor. ")   
     
 if __name__ == '__main__':
     main()
