@@ -3,5 +3,4 @@
 streamlit #to deploy the trained model as we app
 numpy #for array manipulation
 pandas #to hande the data set
-plotly # for plotting and showcasing the data
 scikit-learn #for classification, regression, clustering etc...
